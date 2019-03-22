@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// This is a helloworld program.
+// This is a helloworld programme.
 int main()
 {
     printf("Hello, world!\n");
